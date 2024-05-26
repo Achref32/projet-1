@@ -1,4 +1,4 @@
-# projet-1
+# projet-1-jeu Tic Tac Toe (XO)
 Ce projet sert à réaliser le jeu Tic Tac Toe (XO) basé sur la carte de programmation Arduino UNO R3 
 matriéls utilisés :
   1.carte Arduino UNO R3
